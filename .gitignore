@@ -1,0 +1,5 @@
+.vscode
+*.egg
+*.egg-info
+*.pyc
+dist
